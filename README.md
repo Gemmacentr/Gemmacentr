@@ -22,8 +22,8 @@ Website for M.A.MO (HK) Ltd, a company that produces accessories for fashion bra
 [Live](https://gemmacentr.github.io/MAMO/) · [Code](https://github.com/Gemmacentr/MAMO)
 
 **[Kikeroo](https://kikeroo-three.vercel.app/home)**
-Hiring test built with EJS and Leaflet.
-[Live](https://kikeroo-three.vercel.app/home)
+Website for Kikeroo, a travel startup, and my first frontend project for a real client. Built with EJS and an interactive Leaflet map. The client's original site is no longer online; this version is still live.
+[Live](https://kikeroo-three.vercel.app/home) · [Client](https://www.instagram.com/kikeroo_/)
 
 **[SatNOGS redesign](https://gemmacentr.github.io/SATNOGS-Exercize/index.html)**
 Hiring test: a new homepage for the SatNOGS satellite network, designed in Figma and built in HTML, CSS and JavaScript.
