@@ -18,7 +18,7 @@ Single-page portfolio in HTML, CSS and vanilla JavaScript, translated into Itali
 [Live](https://gemmacentr.github.io/portfolio/) · [Code](https://github.com/Gemmacentr/portfolio)
 
 **[MAMO](https://gemmacentr.github.io/MAMO/)**
-Website for M.A.MO (HK) Ltd, a company that produces accessories for fashion brands. Design and development.
+Website for M.A.MO (HK) Ltd, a company that produces accessories for fashion brands. Real client project, design and development, launched by the client with a [sponsored post](https://www.instagram.com/p/DdZCjeEteXP/).
 [Live](https://gemmacentr.github.io/MAMO/) · [Code](https://github.com/Gemmacentr/MAMO)
 
 **[Kikeroo](https://kikeroo-three.vercel.app/home)**
