@@ -4,14 +4,20 @@ Frontend developer. I build web applications with **Vue 3** and **TypeScript**, 
 
 I studied Communication in Siena and Digital Humanities in Bologna, where I discovered that code can be another way to communicate. I've been working as a developer since 2022: React at first, then a year on the backend with .NET, and now Vue 3 applications and a shared component library.
 
+Lately I've also been building AI automations that connect LLMs to everyday tools.
+
 Most of my professional work lives in private company repositories. Here you'll find my personal projects, hiring tests and university projects.
 
 ## Tech
 
 **Daily:** Vue 3 · TypeScript · JavaScript · SCSS · Vite · Vitest · Storybook · Git
-**Also:** React · HTML · CSS · REST APIs · .NET / C# · Figma · Photoshop · InDesign
+**Also:** React · HTML · CSS · REST APIs · .NET / C# · n8n · LLM APIs (Gemini) · Figma · Photoshop · InDesign
 
 ## Selected projects
+
+**[AI Job Search Agent](https://github.com/Gemmacentr/ai-job-search-agent)**
+n8n workflow that runs every morning: it collects new LinkedIn job posts, filters them by role and stack, and scores each one against my CV with two Gemini agents. Score, required skills, a tailored cover letter and CV suggestions are saved to Google Sheets, followed by a summary email. Built on a community template, which I extended with multiple searches, title filtering, error handling and quota limits.
+[Code](https://github.com/Gemmacentr/ai-job-search-agent)
 
 **[Portfolio](https://gemmacentr.github.io/portfolio/)**
 Single-page portfolio in HTML, CSS and vanilla JavaScript, translated into Italian, English and Spanish.
